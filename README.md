@@ -1,10 +1,10 @@
-Análise de currículos usando NLP e Web Scraping
+# Análise de currículos usando NLP e Web Scraping
 
-Aluno: Elio Accardo (https://github.com/ElioAccardo) 
+### Aluno: Elio Accardo (https://github.com/ElioAccardo) 
 
-Orientador: Leonardo Mendoza.  
+### Orientador: Leonardo Mendoza.  
 
-Co-orientador: Felipe Borges (https://github.com/FelipeBorgesC).
+### Co-orientador: Felipe Borges (https://github.com/FelipeBorgesC).
 
 Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
 
