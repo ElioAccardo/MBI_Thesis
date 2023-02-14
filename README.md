@@ -12,22 +12,36 @@ Link para o repositorio: https://github.com/ElioAccardo/MBI_Thesis.git
 
 ### Resumo 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pulvinar nisl vestibulum tortor fringilla, eget imperdiet neque condimentum. 
-Proin vitae augue in nulla vehicula porttitor sit amet quis sapien. Nam rutrum mollis ligula, et semper justo maximus accumsan. 
+Este projeto tem como objetivo fornecer soluções para pessoas que procuram receber feedback sobre seus currículos, bem como para equipes de Recursos Humanos que querem comparar candidatos para posições específicas. O projeto foi desenvolvido pensando na solução do CV WAY (http://www.gocvway.com/index).
+
+O projeto é dividido em três etapas:
+
+- Análise de currículos com a mesma experiência profissional: O código em Python procura no banco de dados currículos com a mesma experiência profissional. Em seguida, ele monta um currículo ideal com base na pontuação das frases e, por fim, compara a similaridade entre os currículos e o currículo ideal usando a similaridade de cossenos.
+
+- Web Scraping: Com base nas possíveis combinações de trabalhos alvo, o código procura descrições de vagas.
+
+- Análise de currículos com o mesmo trabalho alvo: O código procura por currículos no banco de dados e, com base nas descrições de vagas obtidas na segunda etapa, compara os currículos com o mesmo interesse em posições usando a similaridade de cossenos.
+
 
 ### Abstract 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pulvinar nisl vestibulum tortor fringilla, eget imperdiet neque condimentum. 
-Proin vitae augue in nulla vehicula porttitor sit amet quis sapien. Nam rutrum mollis ligula, et semper justo maximus accumsan. 
+This work consists of a solution for people who want to get feedback on their resumes, as well as for HR teams who want to compare candidates for specific positions. The project developed is a solution from an initiative called CV WAY (http://www.gocvway.com/index)
 
+The work is divided into 3 steps:
+
+- Analysis of resumes with the same work experience: The Python code searches the database for resumes with the same professional experience. Then it builds an ideal resume based on the score of the phrases and finally compares the similarity between the resumes and the ideal resume using cosine similarity.
+
+- Web Scraping: Based on possible combinations of target job, the code searches for job descriptions.
+
+- Analysis of resumes with the same target job: The code searches for resumes in the database and based on the job descriptions obtained in the previous step, it compares the resumes with the same interest in positions using cosine similarity.
+    
 ### 1. Introdução 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pulvinar nisl vestibulum tortor fringilla, eget imperdiet neque condimentum. 
-Proin vitae augue in nulla vehicula porttitor sit amet quis sapien. Nam rutrum mollis ligula, et semper justo maximus accumsan. 
-Integer scelerisque egestas arcu, ac laoreet odio aliquet at. Sed sed bibendum dolor. Vestibulum commodo sodales erat, ut placerat nulla vulputate eu. 
-In hac habitasse platea dictumst. Cras interdum bibendum sapien a vehicula. Proin feugiat nulla sem. Phasellus consequat tellus a ex aliquet, quis convallis turpis blandit. 
-Quisque auctor condimentum justo vitae pulvinar. Donec in dictum purus. Vivamus vitae aliquam ligula, at suscipit ipsum. 
-Quisque in dolor auctor tortor facilisis maximus. Donec dapibus leo sed tincidunt aliquam. 
+O projeto desenvolvido é uma iniciativa para melhorar a solução da plataforma CV WAY.
+
+A plataforma CV WAY é uma ferramenta que profissionais podem usar para aprimorar seus currículos por meio da troca de revisões. Ao correspondê-lo com outros usuários experientes nas indústrias e funções que você pretende atuar.
+
+Antes, a plataforma CV WAY dependia da avaliação de outros usuários experientes para que você tivesse acesso a um painel pessoal. Com o desenvolvimento deste projeto, os usuários da plataforma poderão receber feedback imediato sobre seus currículos, permitindo-lhes saber quanto é competitivo seu perfil por meio da classificação com outros candidatos.
 
 ### 2. Modelagem
 
@@ -256,8 +270,15 @@ DESCRIPTION: great
 
 ### 4. Conclusões
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pulvinar nisl vestibulum tortor fringilla, eget imperdiet neque condimentum. 
-Proin vitae augue in nulla vehicula porttitor sit amet quis sapien. Nam rutrum mollis ligula, et semper justo maximus accumsan. 
+Conclui-se que o trabalho atingiu seu objetivo de melhorar a solução existente do CV WAY. Em questão de poucos minutos, foi possível classificar todo o banco de dados com base em dois critérios distintos.
+
+A etapa de web scraping também foi satisfatória, pois varreu mais de 115 combinações de posições-alvo e permitiu a classificação dos currículos comparando as palavras-chave de posições diferentes.
+
+Como oportunidades de melhoria identificadas estão:
+
+- Refatoração do código de web scraping para melhor mapeamento de gargalos e otimizar o tempo do Selenium;
+- Refatoração do código de NLP para otimizar consultas;
+- Deploy do código em produção.
 
 --- Matrícula: 211.101.170
 
