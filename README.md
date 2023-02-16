@@ -242,29 +242,29 @@ Antes, a plataforma CV WAY dependia da avaliação de outros usuários experient
         DEGREE PROGRAM: Masters in Marketing.
         DESCRIPTION: Studied at Dundee Uk
 
-* CV3: Classification (TF_IDF)=0,12545522138105042/Rank=1
+    * CV3: Classification (TF_IDF)=0,12545522138105042/Rank=1
 
-      WORK EXP
+        WORK EXP
 
-      COMPANY NAME: SF Furnitures.
-      JOB TITLE: Worker.
-      DESCRIPTION: fitting and polishing woods
+        COMPANY NAME: SF Furnitures.
+        JOB TITLE: Worker.
+        DESCRIPTION: fitting and polishing woods
 
-      COMPANY NAME: Youth corps.
-      JOB TITLE: Data entry.
-      DESCRIPTION: manage computarize data.
+        COMPANY NAME: Youth corps.
+        JOB TITLE: Data entry.
+        DESCRIPTION: manage computarize data.
 
-      EDUCATION
+        EDUCATION
 
-      TYPE: COLLEGEUNIVERSITY,.
-      INSTITUITION NAME: University of Cambridge.
-      DEGREE PROGRAM: law.
-      DESCRIPTION: great
+        TYPE: COLLEGEUNIVERSITY,.
+        INSTITUITION NAME: University of Cambridge.
+        DEGREE PROGRAM: law.
+        DESCRIPTION: great
 
-      TYPE: MASTER.
-      INSTITUITION NAME: University of Cambridge.
-      DEGREE PROGRAM: Natural Sciences.
-      DESCRIPTION: great
+        TYPE: MASTER.
+        INSTITUITION NAME: University of Cambridge.
+        DEGREE PROGRAM: Natural Sciences.
+        DESCRIPTION: great
 
 ### 4. Conclusões
 
