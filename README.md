@@ -244,27 +244,7 @@ Antes, a plataforma CV WAY dependia da avaliação de outros usuários experient
 
 * CV3: Classification (TF_IDF)=0,12545522138105042/Rank=1
 
-        WORK EXP
-
-        COMPANY NAME: SF Furnitures.
-        JOB TITLE: Worker.
-        DESCRIPTION: fitting and polishing woods
-
-        COMPANY NAME: Youth corps.
-        JOB TITLE: Data entry.
-        DESCRIPTION: manage computarize data.
-
-        EDUCATION
-
-        TYPE: COLLEGEUNIVERSITY,.
-        INSTITUITION NAME: University of Cambridge.
-        DEGREE PROGRAM: law.
-        DESCRIPTION: great
-
-        TYPE: MASTER.
-        INSTITUITION NAME: University of Cambridge.
-        DEGREE PROGRAM: Natural Sciences.
-        DESCRIPTION: great
+        xx
 
 ### 4. Conclusões
 
