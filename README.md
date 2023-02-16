@@ -91,67 +91,65 @@ Antes, a plataforma CV WAY dependia da avaliação de outros usuários experient
 - Work Experience (departamento/industria/senioridade): Customer Service/Food, drink, tobacco/Middle
 - CVs: 
 
-* CV1: Classification (TF_IDF)=0.23945600613050613/Rank=3
+    * CV1: Classification (TF_IDF)=0.23945600613050613/Rank=3
 
+        WORK EXP
 
-WORK EXP
+        COMPANY NAME: Coffee planet.
+        JOB TITLE: Barista.
+        DESCRIPTION:
 
-COMPANY NAME: Coffee planet.
-JOB TITLE: Barista.
-DESCRIPTION:
+        EDUCATION
 
-EDUCATION
+        TYPE: HIGHSCHOOL.
+        INSTITUITION NAME: Peak solution school.
+        DEGREE PROGRAM: Metric.
+        DESCRIPTION:
 
-TYPE: HIGHSCHOOL.
-INSTITUITION NAME: Peak solution school.
-DEGREE PROGRAM: Metric.
-DESCRIPTION:
+        TYPE: COLLEGEUNIVERSITY,.
+        INSTITUITION NAME: Punjab college.
+        DEGREE PROGRAM: Intermediate.
+        DESCRIPTION:
 
-TYPE: COLLEGEUNIVERSITY,.
-INSTITUITION NAME: Punjab college.
-DEGREE PROGRAM: Intermediate.
-DESCRIPTION:
+    * CV2: Classification (TF_IDF)=0.5885295041149788/Rank=2
 
-* CV2: Classification (TF_IDF)=0.5885295041149788/Rank=2
+        WORK EXP
 
+        COMPANY NAME: Pizza Hut.
+        JOB TITLE: Waiter.
+        DESCRIPTION: Worked passionately in customer service in a high-volume restaurant. Completed the F.A.S.T. customer service training class. Maintained a high tip         average thanks to consistent customer satisfaction.
 
-WORK EXP
+        EDUCATION
 
-COMPANY NAME: Pizza Hut.
-JOB TITLE: Waiter.
-DESCRIPTION: Worked passionately in customer service in a high-volume restaurant. Completed the F.A.S.T. customer service training class. Maintained a high tip average thanks to consistent customer satisfaction.
+        TYPE: COLLEGEUNIVERSITY,.
+        INSTITUITION NAME: Hubei university of technology.
+        DEGREE PROGRAM: Bachelor in computer science.
+        DESCRIPTION: Studied with outstanding cgpa in this university
 
-EDUCATION
+        TYPE: MASTER.
+        INSTITUITION NAME: Wuhan University.
+        DEGREE PROGRAM: Masters in computer science.
+        DESCRIPTION: Studying masters under this university
 
-TYPE: COLLEGEUNIVERSITY,.
-INSTITUITION NAME: Hubei university of technology.
-DEGREE PROGRAM: Bachelor in computer science.
-DESCRIPTION: Studied with outstanding cgpa in this university
+    * CV3: Classification (TF_IDF)=0.7084409562684878/Rank=1
 
-TYPE: MASTER.
-INSTITUITION NAME: Wuhan University.
-DEGREE PROGRAM: Masters in computer science.
-DESCRIPTION: Studying masters under this university
+        WORK EXP
 
-* CV3: Classification (TF_IDF)=0.7084409562684878/Rank=1
+        COMPANY NAME: Meet Fresh.
+        JOB TITLE: accountant.
+        DESCRIPTION: I was working in meet fresh as a accountant, I''m specialist in account manager, I hold all the account department charge .
 
-WORK EXP
+        EDUCATION
 
-COMPANY NAME: Meet Fresh.
-JOB TITLE: accountant.
-DESCRIPTION: I was working in meet fresh as a accountant, I''m specialist in account manager, I hold all the account department charge .
+        TYPE: COLLEGEUNIVERSITY,.
+        INSTITUITION NAME: University of Western Australia.
+        DEGREE PROGRAM: BSc .
+        DESCRIPTION: i do BSc in science subject from from university of western Australia
 
-EDUCATION
-
-TYPE: COLLEGEUNIVERSITY,.
-INSTITUITION NAME: University of Western Australia.
-DEGREE PROGRAM: BSc .
-DESCRIPTION: i do BSc in science subject from from university of western Australia
-
-TYPE: MASTER,.
-INSTITUITION NAME: University of Tasmania.
-DEGREE PROGRAM: MSc.
-DESCRIPTION: i do Masters in science subject from from university of Tasmania
+        TYPE: MASTER,.
+        INSTITUITION NAME: University of Tasmania.
+        DEGREE PROGRAM: MSc.
+        DESCRIPTION: i do Masters in science subject from from university of Tasmania
 
 2) Web Scraping e código em python NLP para análise dos currículos com mesmo target job.
 
