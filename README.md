@@ -243,8 +243,7 @@ Antes, a plataforma CV WAY dependia da avaliação de outros usuários experient
         DESCRIPTION: Studied at Dundee Uk
 
 * CV3: Classification (TF_IDF)=0,12545522138105042/Rank=1
-
-        xx
+xxx
 
 ### 4. Conclusões
 
