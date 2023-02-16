@@ -106,7 +106,7 @@ Antes, a plataforma CV WAY dependia da avaliação de outros usuários experient
         DEGREE PROGRAM: Metric.
         DESCRIPTION:
 
-        TYPE: COLLEGEUNIVERSITY,.
+        TYPE: COLLEGEUNIVERSITY.
         INSTITUITION NAME: Punjab college.
         DEGREE PROGRAM: Intermediate.
         DESCRIPTION:
@@ -121,7 +121,7 @@ Antes, a plataforma CV WAY dependia da avaliação de outros usuários experient
 
         EDUCATION
 
-        TYPE: COLLEGEUNIVERSITY,.
+        TYPE: COLLEGEUNIVERSITY.
         INSTITUITION NAME: Hubei university of technology.
         DEGREE PROGRAM: Bachelor in computer science.
         DESCRIPTION: Studied with outstanding cgpa in this university
@@ -141,12 +141,12 @@ Antes, a plataforma CV WAY dependia da avaliação de outros usuários experient
 
         EDUCATION
 
-        TYPE: COLLEGEUNIVERSITY,.
+        TYPE: COLLEGEUNIVERSITY.
         INSTITUITION NAME: University of Western Australia.
         DEGREE PROGRAM: BSc .
         DESCRIPTION: i do BSc in science subject from from university of western Australia
 
-        TYPE: MASTER,.
+        TYPE: MASTER.
         INSTITUITION NAME: University of Tasmania.
         DEGREE PROGRAM: MSc.
         DESCRIPTION: i do Masters in science subject from from university of Tasmania
@@ -209,7 +209,7 @@ Antes, a plataforma CV WAY dependia da avaliação de outros usuários experient
         WORK EXP:
 
         EDUCATION:
-        TYPE: COLLEGE UNIVERSITY,.
+        TYPE: COLLEGE UNIVERSITY.
         INSTITUITION NAME: kavindu.
         DEGREE PROGRAM: english.
         DESCRIPTION:
@@ -232,7 +232,7 @@ Antes, a plataforma CV WAY dependia da avaliação de outros usuários experient
 
         EDUCATION
 
-        TYPE: COLLEGEUNIVERSITY,.
+        TYPE: COLLEGEUNIVERSITY.
         INSTITUITION NAME: Harvard.
         DEGREE PROGRAM: Bachelors in Marketing.
         DESCRIPTION: Studied at Harvard
@@ -256,7 +256,7 @@ Antes, a plataforma CV WAY dependia da avaliação de outros usuários experient
 
         EDUCATION
 
-        TYPE: COLLEGEUNIVERSITY,.
+        TYPE: COLLEGEUNIVERSITY.
         INSTITUITION NAME: University of Cambridge.
         DEGREE PROGRAM: law.
         DESCRIPTION: great
