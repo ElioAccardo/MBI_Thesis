@@ -1,14 +1,14 @@
 # Análise de currículos usando NLP e Web Scraping
 
-### Aluno: Elio Accardo (https://github.com/ElioAccardo) 
+### Aluno: [Elio Accardo](https://github.com/ElioAccardo) 
+### Orientador: [Leonardo Mendoza].
+### Co-orientador: [Felipe Borges](https://github.com/FelipeBorgesC).
 
-### Orientador: Leonardo Mendoza.  
-
-### Co-orientador: Felipe Borges (https://github.com/FelipeBorgesC).
+---
 
 Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
 
-Link para o repositorio: https://github.com/ElioAccardo/MBI_Thesis.git
+---
 
 ### Resumo 
 
@@ -91,7 +91,7 @@ Antes, a plataforma CV WAY dependia da avaliação de outros usuários experient
 - Work Experience (departamento/industria/senioridade): Customer Service/Food, drink, tobacco/Middle
 - CVs: 
 
-A) CV1: Classification (TF_IDF)=0.23945600613050613/Rank=3
+* CV1: Classification (TF_IDF)=0.23945600613050613/Rank=3
 
 
 WORK EXP
@@ -112,7 +112,7 @@ INSTITUITION NAME: Punjab college.
 DEGREE PROGRAM: Intermediate.
 DESCRIPTION:
 
-B) CV2: Classification (TF_IDF)=0.5885295041149788/Rank=2
+* CV2: Classification (TF_IDF)=0.5885295041149788/Rank=2
 
 
 WORK EXP
@@ -133,7 +133,7 @@ INSTITUITION NAME: Wuhan University.
 DEGREE PROGRAM: Masters in computer science.
 DESCRIPTION: Studying masters under this university
 
-C) CV3: Classification (TF_IDF)=0.7084409562684878/Rank=1
+* CV3: Classification (TF_IDF)=0.7084409562684878/Rank=1
 
 WORK EXP
 
@@ -280,6 +280,10 @@ Como oportunidades de melhoria identificadas estão:
 - Refatoração do código de NLP para otimizar consultas;
 - Deploy do código em produção.
 
---- Matrícula: 211.101.170
+--- 
 
-Pontifícia Universidade Católica do Rio de Janeiro Curso de Pós Graduação *Business Intelligence Master* 
+Matrícula: 211.101.170
+
+Pontifícia Universidade Católica do Rio de Janeiro
+
+Curso de Pós Graduação *Business Intelligence Master* 
