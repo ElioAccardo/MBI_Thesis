@@ -1,7 +1,7 @@
 # Análise de currículos usando NLP e Web Scraping
 
 ### Aluno: [Elio Accardo](https://github.com/ElioAccardo) 
-### Orientador: [Leonardo Mendoza].
+### Orientador: [Leonardo Mendoza](leofome@gmail.com).
 ### Co-orientador: [Felipe Borges](https://github.com/FelipeBorgesC).
 
 ---
